@@ -22,8 +22,8 @@
   ],
   "requires_arc": true,
   "dependencies": {
-    "Bolts": [
-      "~> 1.1.0"
+    "Bolts/Tasks": [
+      "~> 1.1.5"
     ],
     "Mantle": [
       "~> 1.4"
